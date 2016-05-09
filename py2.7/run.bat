@@ -1,0 +1,2 @@
+python Solver.py
+pause
